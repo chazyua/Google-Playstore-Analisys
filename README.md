@@ -12,3 +12,6 @@
     - Top 10 grossing Paid apps
     - Top 10 Most popular Games by Num of Downloads
  - Conclusions
+
+##### For some reason GitHub failed to render this .ipynb. But you can find it here
+https://nbviewer.jupyter.org/github/chazyua/Google-Playstore-Analisys/blob/master/Play%20Store%20Data%20Analysis.ipynb
